@@ -1,0 +1,19 @@
+.title-form {
+  margin: 60px 16px 16px;
+  text-align: center;
+}
+
+.form {
+  margin: 8px auto;
+  max-width: 70%;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #323232;
+  background-color: #f0f0f0;
+}
+
+.input-form {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
